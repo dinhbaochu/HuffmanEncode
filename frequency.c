@@ -1,0 +1,1 @@
+int * frequency (char *input_encode);
